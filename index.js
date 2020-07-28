@@ -21,7 +21,7 @@
     ];
      var arr = [ "Quinn Flynn", "Support Lead", "Edinburgh", "9497", "2013/03/03", "$342,000" ];
      dataSet.push(arr);
-     console.log(dataSet);
+     console.log("dataSet");
 
     $(document).ready(function() {
         $('#example').DataTable( {
